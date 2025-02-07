@@ -1,6 +1,6 @@
 # 300. Longest Increasing Subsequence
 
-<div align="center"><img src= ""/></div>
+<div align="center"><img src= "https://github.com/projeto-de-algoritmos-2024/PD_Exercicios_LeetCode/raw/refs/heads/master/longest-increasing-subsequence/result"/></div>
 
 ---
 
