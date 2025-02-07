@@ -1,6 +1,6 @@
 # 1402. Reducing Dishes
 
-<div align="center"><img src= "https://github.com/projeto-de-algoritmos-2024/PD_Exercicios_LeetCode/raw/refs/heads/master/reducing-dishes/result"/></div>
+<div align="center"><img src= "https://github.com/projeto-de-algoritmos-2024/PD_Exercicios_LeetCode/raw/refs/heads/master/reducing-dishes/result.png"/></div>
 
 ---
 
