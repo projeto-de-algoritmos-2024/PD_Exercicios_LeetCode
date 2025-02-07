@@ -1,8 +1,6 @@
 # 300. Longest Increasing Subsequence
 
-<div align="center">
 ![resultado](./result.png)
-</div>
 
 ---
 
