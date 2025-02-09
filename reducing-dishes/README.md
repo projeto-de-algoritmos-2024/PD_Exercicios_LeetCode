@@ -1,4 +1,4 @@
-# 1402. Reducing Dishes
+# 1402. Reducing Dishes - Difícil
 
 <div align="center"><img src= "./result.png"/></div>
 

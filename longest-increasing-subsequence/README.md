@@ -1,4 +1,4 @@
-# 300. Longest Increasing Subsequence
+# 300. Longest Increasing Subsequence - Média
 
 <div align="center"><img src= "./result.png"/></div>
 
